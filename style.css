@@ -15,3 +15,7 @@
 .custom-nav {
   backdrop-filter: blur(8px);
 }
+
+.bi {
+  color: yellow;
+}
